@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Command-line utilities for dealing with Automerge files/objects.",
   "main": "src/automerge-cli.js",
+  "bin": {
+    "automerge-cli": "./src/automerge-cli.js"
+  },
   "keywords": [
     "automerge"
   ],
