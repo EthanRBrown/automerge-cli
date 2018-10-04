@@ -1,0 +1,19 @@
+{
+  "name": "automerge-cli",
+  "version": "1.0.0",
+  "description": "Command-line utilities for dealing with Automerge files/objects.",
+  "main": "src/automerge-cli.js",
+  "keywords": [
+    "automerge"
+  ],
+  "author": "Ethan Brown <ethan@vms-inc.com>",
+  "license": "(MIT OR GPL-3.0)",
+  "repository": "EthanRBrown/automerge-cli",
+  "dependencies": {
+    "automerge": "^0.9.1",
+    "command-line-args": "^5.0.2",
+    "command-line-usage": "^5.0.5",
+    "jsome": "^2.5.0",
+    "json5": "^2.1.0"
+  }
+}
