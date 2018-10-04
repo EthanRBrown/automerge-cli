@@ -1,6 +1,6 @@
 {
   "name": "automerge-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command-line utilities for dealing with Automerge files/objects.",
   "main": "src/automerge-cli.js",
   "bin": {
